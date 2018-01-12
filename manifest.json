@@ -1,0 +1,9 @@
+{
+  "manifest_version": 2,
+  "name": "rot13ify",
+  "description": "Provides rot13 encoding & decoding",
+  "version": "0.1",
+  "permissions": [
+    "contextMenus"
+  ]
+}
