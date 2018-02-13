@@ -1,5 +1,7 @@
 # rot13ify
 
+![rot13ify in use](http://thomjamesallen.com/images/rot13-480.gif)
+
 Chrome extension providing [ROT13](https://en.wikipedia.org/wiki/ROT13) encoding & decoding. Useful for hiding spoilers or other content from being seen at a casual glance.
 
 ## Installation
